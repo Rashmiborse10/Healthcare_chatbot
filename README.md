@@ -1,4 +1,4 @@
-# Person 1 — RAG & AI Engineer Module
+#RAG & AI Engineer Module
 
 This covers `app/rag/`, `app/llm/`, `app/guardrails/`, and `app/core/` from the
 Healthcare Knowledge Assistant project.
